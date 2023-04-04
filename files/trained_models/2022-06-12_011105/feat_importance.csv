@@ -1,0 +1,13 @@
+,importance,feature
+1,1994,trip_duration
+8,438,month
+0,288,reservation_lead_time
+10,232,weekend
+6,213,car_parking_address_postcode
+7,168,weekday
+11,151,7_to_12hs
+3,102,hist_usage_median
+9,74,day_nr
+4,65,prev_hour_usage_q10
+2,43,hist_usage_q10
+5,36,prev_hour_usage_median

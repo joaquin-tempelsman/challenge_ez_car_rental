@@ -1,0 +1,16 @@
+,importance,feature
+1,4791,trip_duration
+10,3496,month
+0,3266,reservation_lead_time
+12,2651,weekend
+4,2608,hist_free_cars
+8,2562,car_parking_address_postcode
+9,2337,weekday
+13,2173,7_to_12hs
+11,2011,day_nr
+7,1203,prev_free_cars
+14,738,car_id_hash
+3,562,hist_usage_median
+6,506,prev_hour_usage_median
+5,196,prev_hour_usage_q10
+2,57,hist_usage_q10
